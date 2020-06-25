@@ -30,6 +30,9 @@ p{
 	p::before{
 		content: "Code Army is an online community where developers share knowledge and grow their careers. Join Code Army now! ";
 	}
+	#registerbutton {
+		display: none;
+	}
 }
 
 @media (min-width: 500px){
