@@ -26,9 +26,46 @@ p {
     content: "Code Army is an online community where developers share knowledge and grow their careers. Join Code Army now! "; }
 
   #registerbutton {
+    display: none; }
+
+  .optionsmenu {
     display: none; } }
 @media (min-width: 500px) {
   p::before {
     content: "Code Army is an online community where developers share knowledge and grow their careers. Developers from around the world can particapate in discussions on Code Army. You can write and read stories, ask open-ended questions as well as technical questions, start polls. We also provide wide variety of programming courses to help you learn and reach career heights. Join Code Army now!"; } }
+.form {
+  margin: 100px; }
+
+.article {
+  width: 320px;
+  font-weight: bold;
+  font-size: 16px; }
+
+.articleimage {
+  width: 320px; }
+
+.container {
+  display: flex;
+  flex-wrap: wrap; }
+
+.container > div {
+  margin: 20px; }
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  margin: 20px; }
+
+th, td {
+  padding: 15px; }
+
+table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto; }
+
+.linkparent a {
+  color: #212529;
+  text-decoration: none; }
 
 /*# sourceMappingURL=styles.css.map */
