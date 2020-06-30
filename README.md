@@ -29,5 +29,5 @@ code.png is website's logo which appears in navigation bar.
 image0.png is a background image used in home.html page.
 
 
-In sass folder there are styles.scss stylesheet and in css folder it's equivalent styles.css
+In sass folder there are styles.scss stylesheet used in all 6 pages and in css folder there is its equivalent styles.css
 
