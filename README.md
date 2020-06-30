@@ -17,7 +17,7 @@ register.html is very similar to login.html but instead of logging in, there you
 
 articles.html is where you can find articles about programming. The page contains flexbox which inside has articles (images with titles bellow it).
 
-courses.html is where you can pick a course of your desired programming subject to learn from. The page contains a table with different programming languages, so you can choose what you want to learn.
+courses.html is where you can pick a course of your desired programming subject to learn from. The page contains a table with different programming languages, so you can choose which one you want to learn.
 
 discussions.html is where people could read posts and chat. The page contains posts with dummy text in it and options menu, where you supposedly can specify the subject of discussions.
 
