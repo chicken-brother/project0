@@ -2,7 +2,9 @@
 
 Web Programming with Python and JavaScript
 
+
 This is a programmers forum website, which doesn't contain any backend at all, just the design.
+
 
 
 In html folder there are 6 html pages:
